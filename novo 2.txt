@@ -1,0 +1,63 @@
+<div class="rodape">
+			<footer class="footer-container">
+				<div class="footer-content-1">
+					<p class="footer-p">
+						<a href="https://www7.fiemg.com.br/senai/fale-conosco">  Fale Conosco </a>
+						<a href="https://www7.fiemg.com.br/senai/para-voce"> Para Você </a>
+						<a href="https://www7.fiemg.com.br/fiemg/produto/integridade?prefix=/fiemg&link=/produto/integridade"> Integridade </a>
+						<a href="#"> Contato
+					</p>
+					
+					<img src="logof.png" alt="foto">
+					<h3> Pelo Futuro Do Trabalho</h3>
+					<p class="footer-empresa">
+					SAC – Serviço de Atendimento ao Cliente: 4020 9030
+					</p>
+				</div>
+				<div class="footer-content-2">
+					<div>
+					<i class="fa fa-map-marker"></i>
+					<p><a href="https://goo.gl/maps/3qtP3gXsee4o7w8y7">
+						Rua Tenente José Joaquim, 1512 ,São Sebastião Do Paraiso - MG
+					</a></p>
+				</div>
+				<div>
+					<i class="fa fa-envelope"></i>
+					<p><a href="senaimg@gmail.com">
+						suportesenai@gmail.com
+					</a></p>
+				</div>
+				<div>
+					<i class="fa fa-phone"></i>
+					<p><a href="tel:35999737087">(35)999737087</a></p>
+				</div>
+				<div>
+					<i class="fa fa-whatsapp"></i>
+					<p><a href="#" target="_blank">
+						+55 35 999737087
+					</a></p>
+				</div>
+			</div>
+			<div class="footer-content-3">
+				<p class="footer-empresa">
+					<span>Sobre a Empresa</span>
+					Uma empresa de tecnologia baseada em negócios relacionados a desenvolvimento de sistemas digitais, software e serviços.
+				</p>
+				<div class="footer-icons">
+					<a href="#"><i class="fa fa-github"></i></a>
+					<a href="#"><i class="fa fa-instagram"></i></a>
+					<a href="#"><i class="fa fa-twitter"></i></a>
+					<a href="#"><i class="fa fa-linkedin"></i></a>
+					<a href="#"><i class="fa fa-youtube"></i></a>
+				</div>
+				<hr>
+				<p>©2023 Equipe 01 TI Ltda.</p>
+			</div>
+			<div class="copyright">
+				<hr>
+				<p>©Copyright. Todos os direitos reservados.</p>
+			</div>
+		</footer>
+	</div>
+		
+		
